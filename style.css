@@ -1,0 +1,20 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 20px; }
+
+header {
+  background-color: #EEE;
+  margin-top: -20px;
+  padding: 50px; }
+
+header p {
+  font-size: 150%;
+  font-weight: 200; }
+
+header button {
+  font-size: 200%; }
+
+header h1 {
+  font-size: 450%; }
+
+/*# sourceMappingURL=style.css.map */

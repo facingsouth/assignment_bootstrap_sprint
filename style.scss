@@ -1,0 +1,28 @@
+$header-background-color: #EEE;
+$header-heading-size: 450%;
+$header-body-size: 150%;
+$header-body-weight: 200;
+
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+header {
+  background-color: $header-background-color;
+  margin-top: -20px;
+  padding: 50px;
+}
+
+header p {
+  font-size: $header-body-size;
+  font-weight: $header-body-weight;
+}
+
+header button {
+  font-size: 200%;
+}
+
+header h1 {
+  font-size: $header-heading-size;
+}
